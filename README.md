@@ -2,7 +2,7 @@
 
 Here is the school project of Computer vision.
 
-	It xas developped using flask in a virtual environment containing the library
+	It was developped using flask in a virtual environment containing the library
 tensorflow and some basic python processing libraries such as pandas and numpy.
 
 For the purpose of executing this, download the dataset available on :
